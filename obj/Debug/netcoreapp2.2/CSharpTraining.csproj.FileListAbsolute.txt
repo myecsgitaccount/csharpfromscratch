@@ -1,0 +1,11 @@
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\bin\Debug\netcoreapp2.2\CSharpTraining.deps.json
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\bin\Debug\netcoreapp2.2\CSharpTraining.runtimeconfig.json
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\bin\Debug\netcoreapp2.2\CSharpTraining.runtimeconfig.dev.json
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\bin\Debug\netcoreapp2.2\CSharpTraining.dll
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\bin\Debug\netcoreapp2.2\CSharpTraining.pdb
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.csprojAssemblyReference.cache
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.AssemblyInfoInputs.cache
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.AssemblyInfo.cs
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.dll
+C:\Users\Obaro\Documents\VSCODE\CSharpTraining\obj\Debug\netcoreapp2.2\CSharpTraining.pdb
