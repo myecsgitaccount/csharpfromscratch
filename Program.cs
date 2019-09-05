@@ -10,7 +10,7 @@ namespace CSharpTraining
             PrintLine("Type in a name that contains L");
 
             // Input
-            string name = Console.ReadLine();
+            string name = ReadLine();
 
             var nameContainsL = name.ToLower().Contains("l");
 
@@ -18,11 +18,11 @@ namespace CSharpTraining
             while (!nameContainsL)
             {
                 PrintLine("The name does not contain L. Please try again");
-                name = Console.ReadLine();
+                name = ReadLine();
                 nameContainsL = name.ToLower().Contains("l");
             }
             PrintLine("You have typed a name that contains L");
-            Console.ReadLine();
+            ReadLine();
         }
 
         // custom method to replace writeline
@@ -34,7 +34,9 @@ namespace CSharpTraining
         // custom method to readline
         static string ReadLine()
         {
-            return Console.ReadLine(); 
+            var input = Console.ReadLine();
+            return input;
+            
         }
     }
 }
